@@ -2,8 +2,8 @@
   "projects": [
     {
       "id": 1,
-      "title": "Create new homepage banner",
-      "details": "Lorem ipsum",
+      "title": "Create new homepage banner 2",
+      "details": "Lorem ipsum 22",
       "complete": true
     },
     {
@@ -13,9 +13,9 @@
       "complete": false
     },
     {
-      "title": "fewfewfewfew",
-      "details": "fkowpgjewop op kopwe",
-      "complete": true,
+      "title": " email fewfewfewfew",
+      "details": "fkowpgjewop op kopweemail. emailemailemail.  email",
+      "complete": false,
       "id": 3
     },
     {
